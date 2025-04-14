@@ -2,12 +2,12 @@
 In this project, we create the following three data models:
 1. **Noisy curcles**
 2. **Noisy moons**
-3. **Isotropic gassian blobs**
-Then we will run the following algorithms on these datasets and plot the results.\
+3. **Isotropic gassian blobs**\
+Then we will run the following algorithms on these datasets and plot the results.
 1. **K-means**
 2. **Agglomerative Clustering**
 3. **Density-based spatial clustering (DBSCAN)**\
-Then we will calculate the following metrics:\
+Then we will calculate the following metrics:
 1. **Rand index**
 2. **Jaccer index**
 3. **Silhouette index**
