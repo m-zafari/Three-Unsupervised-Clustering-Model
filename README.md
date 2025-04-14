@@ -13,4 +13,4 @@ Finally, we will calculate the following metrics:\
 **Rand index**\
 **Jaccer index**\
 **Silhouette index**\
-**Dunn index**
+**Dunn index**\
