@@ -1,5 +1,5 @@
 # Three-Unsupervised-Clustering-Model
-In this project, we create the following three data models:\
+In this project, we create the following three data models:
 1. **Noisy curcles**
 2. **Noisy moons**
 3. **Isotropic gassian blobs**
