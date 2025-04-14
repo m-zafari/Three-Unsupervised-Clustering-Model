@@ -14,3 +14,6 @@ Finally, we will calculate the following metrics:\
 **Jaccer index**\
 **Silhouette index**\
 **Dunn index**\
+\
+\
+**Note**: The black color in the data plot indicates noisy data after applying the desired clustering algorithm.
